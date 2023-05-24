@@ -1,1 +1,1 @@
-#Kinda Programmer 👨‍💻
+Kinda Programmer 👨‍💻
