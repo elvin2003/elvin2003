@@ -1,1 +1,1 @@
-# Kinda Programmer (Mostly code Java)
+# Kinda Programmer
